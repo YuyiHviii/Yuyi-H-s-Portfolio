@@ -1,0 +1,8 @@
+# Ignore node_modules, logs, etc. if you have them
+node_modules/
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore assets/images for local testing if you want, but DO NOT ignore for deployment
